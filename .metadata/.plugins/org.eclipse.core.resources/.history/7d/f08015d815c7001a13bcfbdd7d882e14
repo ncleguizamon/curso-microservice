@@ -1,0 +1,5 @@
+package co.ncleguizamon.app.products.models.controllers;
+
+public class ProductController {
+
+}

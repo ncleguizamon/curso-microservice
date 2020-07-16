@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;co.ncleguizamon.app.products.models.entity.product.java&apos; to &apos;Product.java&apos;&#x0A;- Original project: &apos;products-service-sprintboot&apos;&#x0A;- Original element: &apos;co.ncleguizamon.app.products.models.entity.product.java&apos;&#x0A;- Renamed element: &apos;co.ncleguizamon.app.products.models.entity.Product.java&apos;" description="Rename compilation unit &apos;product.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;co.ncleguizamon.app.products.models.entity{product.java" name="Product.java" references="false" stamp="1594869960700" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+package co.ncleguizamon.app.products.models.entity;
+
+public class product {
+
+}
