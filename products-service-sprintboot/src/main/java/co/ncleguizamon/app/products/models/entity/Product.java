@@ -7,6 +7,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.TemporalType;
+import javax.persistence.Transient;
 import javax.persistence.Temporal;
 import javax.persistence.Column;
 import javax.persistence.Id;
@@ -23,9 +24,21 @@ public class Product implements Serializable {
 	private String name;
 	private Double price;
 	
+	
+
 	@Column(name = "create_at")
 	@Temporal(TemporalType.DATE)
 	private Date createAt;
+	
+	@Transient
+	private Integer port;
+	
+	public Integer getPort() {
+		return port;
+	}
+	public void setPort(Integer port) {
+		this.port = port;
+	}
 	
 	public Long getId() {
 		return id;

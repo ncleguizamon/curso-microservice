@@ -12,7 +12,6 @@
     <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="co.ncleguizamon.app.products.ProductsServiceSprintbootApplication"/>
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="products-service-sprintboot"/>
     <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.springframework.ide.eclipse.boot.launch.BootMavenSourcePathProvider"/>
-    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Djava.security.egd=file:/dev/./urandom"/>
     <stringAttribute key="process_factory_id" value="org.springframework.ide.eclipse.boot.launch.process.BootProcessFactory"/>
     <booleanAttribute key="spring.boot.ansi.console" value="true"/>
     <stringAttribute key="spring.boot.app.properties" value=""/>
