@@ -1,5 +1,0 @@
-package co.ncleguizamon.app.products.models.dao;
-
-public interface ProductDao {
-
-}
